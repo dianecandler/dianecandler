@@ -1,9 +1,9 @@
 ### Hello my name is Diane Candler, Product Manager and Full-Stack Web Developer.  👋
 
-Hello my name is Diane Candler, Product Manager and Full-Stack Web Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
