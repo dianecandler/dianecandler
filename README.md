@@ -20,8 +20,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 
-- 🔭 I’m currently working on updating programs initially created while in The University of Texas at Austin Full-Stack Coding Program.
-- 🌱 I’m interested in a Product Manager position with a progressive company desiring extensive product management and product marketing experience and could benefit from my full-stack web development skills.
+- 🌱 I’m interested in a Product Manager position with a progressive company desiring extensive experience and could benefit from my full-stack web development skills.
+- 🔭 I’m currently working on updating programs initially created before graduating from The University of Texas at Austin Full-Stack Coding Program October 2020.
 - 👯 I’m looking to collaborate on full-stack web development contract opportunities.
 - 🤔 I’m looking for help learning more about photography.
 - 💬 Ask me about interior design or building restoration.
