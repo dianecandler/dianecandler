@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/dianecandler/)](https://github.com/dianecandler/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
 <!--
 **dianecandler/dianecandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
