@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+
 <!--
 **dianecandler/dianecandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
