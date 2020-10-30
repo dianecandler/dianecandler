@@ -1,7 +1,9 @@
 ## Hello my name is Diane Candler.
 ## Product Manager and Full-Stack Web Developer  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
+
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)
+(https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)
 
 
 ## My Tech Stack
@@ -23,11 +25,10 @@
 - 🌱 I’m interested in a Product Manager position with a progressive company desiring extensive experience and could benefit from my full-stack web development skills.
 - 🔭 I’m currently working on updating programs initially created before graduating from The University of Texas at Austin Full-Stack Coding Program October 2020.
 - 👯 I’m looking to collaborate on full-stack web development contract opportunities.
+- 😄 Pronouns: Enthusiastic, Hard Working, Creative - like to push for better!
 - 🤔 I’m looking for help learning more about photography.
-- 💬 Ask me about interior design or building restoration.
-- 📫 How to reach me: dianedcandler@gmail.com
-- 😄 Pronouns: Enthusiastic, Hard Working, Creative
-- ⚡ Fun fact: Movies have been shot inside and outside my property.
+- 💬 Ask me about anything!  I am happy to help.
+- ⚡ Fun fact: Movies have been made on my property.
 
 
 <!--
