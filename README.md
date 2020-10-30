@@ -3,7 +3,6 @@
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)
-(https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)
 
 
 ## My Tech Stack
@@ -22,8 +21,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 
-- 🌱 I’m interested in a Product Manager position with a progressive company desiring extensive experience and could benefit from my full-stack web development skills.
-- 🔭 I’m currently working on updating programs initially created before graduating from The University of Texas at Austin Full-Stack Coding Program October 2020.
+- 🌱 I’m interested in a Product Manager position with a company desiring extensive experience and would benefit from my full-stack web development skills.
+- 🔭 I’m currently working on updating programs in my React Portfolio:  https://dianecandler.herokuapp.com/ 
 - 👯 I’m looking to collaborate on full-stack web development contract opportunities.
 - 😄 Pronouns: Enthusiastic, Hard Working, Creative - like to push for better!
 - 🤔 I’m looking for help learning more about photography.
