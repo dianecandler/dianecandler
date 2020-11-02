@@ -1,7 +1,8 @@
-## Hello my name is Diane Candler.
+![dianecandlerswirl](https://user-images.githubusercontent.com/63519355/97909430-d0cfed00-1d0d-11eb-8b1e-b7028505c4d7.JPG)
 ## I am a Product Manager and Full-Stack Web Developer. 
 
 📫 Contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com) or through [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
+
 
 
 ## My Tech Stack
