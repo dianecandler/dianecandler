@@ -1,7 +1,7 @@
 ![dianecandlerswirl](https://user-images.githubusercontent.com/63519355/97909430-d0cfed00-1d0d-11eb-8b1e-b7028505c4d7.JPG)
 #### I am a Product Manager and Full-Stack Web Developer. View my portfolio at https://dianecandler.herokuapp.com/
 
-![dianecandlerswirlmini2](https://user-images.githubusercontent.com/63519355/97912909-23f86e80-1d13-11eb-81cb-427c57873dfe.JPG)
+<!-- ![dianecandlerswirlmini2](https://user-images.githubusercontent.com/63519355/97912909-23f86e80-1d13-11eb-81cb-427c57873dfe.JPG) -->
 
 
 
