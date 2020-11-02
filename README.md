@@ -1,9 +1,7 @@
 ![dianecandlerswirl](https://user-images.githubusercontent.com/63519355/97909430-d0cfed00-1d0d-11eb-8b1e-b7028505c4d7.JPG)
-## I am a Product Manager and Full-Stack Web Developer. 
+#### I am a Product Manager and Full-Stack Web Developer. View my portfolio at https://dianecandler.herokuapp.com/
 
-📫 Contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com) or through [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
-
-
+![dianecandlerswirlmini](https://user-images.githubusercontent.com/63519355/97910166-f8738500-1d0e-11eb-8374-d7e26ee09996.JPG)
 
 ## My Tech Stack
 
@@ -30,7 +28,7 @@
 - 💬 Ask me about anything!  I am happy to help.
 - ⚡ Fun fact: Movies have been made on my property.
 
-
+#### 📫 Contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dianedcandler@gmail.com)](mailto:dianedcandler@gmail.com)  or through  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diane-candler-centraltexas/)](https://www.linkedin.com/in/diane-candler-centraltexas/)
 <!--
 **dianecandler/dianecandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
