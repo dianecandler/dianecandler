@@ -22,7 +22,7 @@
 
 
 - 🌱 I’m interested in a Product Manager position with a company desiring extensive experience and would benefit from my full-stack web development skills.
-- 🔭 I’m currently working on updating programs in my ** React Portfolio:  https://dianecandler.herokuapp.com/ **
+- 🔭 I’m currently working on updating programs in my<strong> React Portfolio:  https://dianecandler.herokuapp.com/ </strong>
 - 👯 I’m looking to collaborate on full-stack web development contract opportunities.
 - 😄 Pronouns: Enthusiastic, Hard Working, Creative - like to push for better!
 - 🤔 I’m looking for help learning more about photography.
